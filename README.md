@@ -1,12 +1,8 @@
-----------------------------------------
-|             MINI HYPER               |
-| Aluna: Giulia Lima Duarte - 22152030 |
-----------------------------------------
+#MINI HYPER  Aluna: Giulia Lima Duarte 
 
+## PROMPTS: 
 
-# PROMPTS: 
-
-''
+`
 Produza um código Prolog que seja próximo ao do Mini-Hyper do Bratko. 
 
 Faça por partes
@@ -14,25 +10,25 @@ Faça por partes
 1. Teste primeiro top-down 
 2. de exemplo curtos de BK com E+ e E- e exemplo de regras induzidas 
 3. Sugira uma representação de regra, como a de lista [A, [B1,...,Bk]] para representar A <- B1 e ... Bk
-''
+`
 
-''
+`
 Não quero uma versão simplificada, quero uma parecida com a que tem no livro do I. Bratko, "Prolog Programming for Artificial Intelligence", 
 mas não quero que você pesquisa na internet, você sabe do que se trata, então faça 
-''
+`
 
-''
+`
 sim
 sim
 sim
 o que você achar melhor
-''
+`
 
-''
+`
 Qual e a resposta final? o código completo
-''
+`
 
-# CODIGO: 
+## CODIGO: 
 
 % ---------------------------
 % PROVA TOP-DOWN COM REGRAS
