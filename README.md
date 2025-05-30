@@ -1,4 +1,4 @@
-#MINI HYPER  Aluna: Giulia Lima Duarte 
+# MINI HYPER - Aluna: Giulia Lima Duarte 
 
 ---
 
@@ -15,7 +15,8 @@ Faça por partes
 ```
 
 ```
-Não quero uma versão simplificada, quero uma parecida com a que tem no livro do I. Bratko, "Prolog Programming for Artificial Intelligence", 
+Não quero uma versão simplificada, quero uma parecida com a que tem no livro do
+I. Bratko, "Prolog Programming for Artificial Intelligence", 
 mas não quero que você pesquisa na internet, você sabe do que se trata, então faça 
 ```
 
