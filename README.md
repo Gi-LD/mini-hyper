@@ -11,7 +11,8 @@ Faça por partes
 
 1. Teste primeiro top-down 
 2. de exemplo curtos de BK com E+ e E- e exemplo de regras induzidas 
-3. Sugira uma representação de regra, como a de lista [A, [B1,...,Bk]] para representar A <- B1 e ... Bk 
+3. Sugira uma representação de regra, como a de lista [A, [B1,...,Bk]]
+para representar A <- B1 e ... Bk 
 ```
 
 ```
